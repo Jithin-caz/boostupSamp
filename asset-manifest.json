@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/boostup/static/css/main.fa899d77.css",
-    "main.js": "/boostup/static/js/main.a5c9b243.js",
-    "static/js/787.55ddd197.chunk.js": "/boostup/static/js/787.55ddd197.chunk.js",
-    "static/media/p4.jpg": "/boostup/static/media/p4.482f33f2615ecba89f77.jpg",
-    "static/media/p3.jpg": "/boostup/static/media/p3.e15964f50022bace62d6.jpg",
-    "static/media/p1.jpg": "/boostup/static/media/p1.1bf1ff0289bde3e063f5.jpg",
-    "static/media/p2.jpg": "/boostup/static/media/p2.76b32484c94831d680f5.jpg",
-    "static/media/boostupbg.png": "/boostup/static/media/boostupbg.ba8beebed4727d334c63.png",
-    "static/media/Kusanagi.otf": "/boostup/static/media/Kusanagi.e9897a0e55d6890fd3b0.otf",
-    "static/media/aAtmospheric.ttf": "/boostup/static/media/aAtmospheric.f7d9830b308ca5f8ee22.ttf",
-    "index.html": "/boostup/index.html",
-    "main.fa899d77.css.map": "/boostup/static/css/main.fa899d77.css.map",
-    "main.a5c9b243.js.map": "/boostup/static/js/main.a5c9b243.js.map",
-    "787.55ddd197.chunk.js.map": "/boostup/static/js/787.55ddd197.chunk.js.map"
+    "main.css": "/boostupSamp/static/css/main.0b0365d0.css",
+    "main.js": "/boostupSamp/static/js/main.9ae1fb7f.js",
+    "static/js/787.55ddd197.chunk.js": "/boostupSamp/static/js/787.55ddd197.chunk.js",
+    "static/media/p4.jpg": "/boostupSamp/static/media/p4.482f33f2615ecba89f77.jpg",
+    "static/media/p3.jpg": "/boostupSamp/static/media/p3.e15964f50022bace62d6.jpg",
+    "static/media/p1.jpg": "/boostupSamp/static/media/p1.1bf1ff0289bde3e063f5.jpg",
+    "static/media/p2.jpg": "/boostupSamp/static/media/p2.76b32484c94831d680f5.jpg",
+    "static/media/boostupbg.png": "/boostupSamp/static/media/boostupbg.ba8beebed4727d334c63.png",
+    "static/media/Kusanagi.otf": "/boostupSamp/static/media/Kusanagi.e9897a0e55d6890fd3b0.otf",
+    "static/media/aAtmospheric.ttf": "/boostupSamp/static/media/aAtmospheric.f7d9830b308ca5f8ee22.ttf",
+    "index.html": "/boostupSamp/index.html",
+    "main.0b0365d0.css.map": "/boostupSamp/static/css/main.0b0365d0.css.map",
+    "main.9ae1fb7f.js.map": "/boostupSamp/static/js/main.9ae1fb7f.js.map",
+    "787.55ddd197.chunk.js.map": "/boostupSamp/static/js/787.55ddd197.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa899d77.css",
-    "static/js/main.a5c9b243.js"
+    "static/css/main.0b0365d0.css",
+    "static/js/main.9ae1fb7f.js"
   ]
 }
