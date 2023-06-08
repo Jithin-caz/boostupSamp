@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/boostupSamp/static/css/main.0b0365d0.css",
-    "main.js": "/boostupSamp/static/js/main.9ae1fb7f.js",
+    "main.js": "/boostupSamp/static/js/main.d26b38db.js",
     "static/js/787.55ddd197.chunk.js": "/boostupSamp/static/js/787.55ddd197.chunk.js",
     "static/media/p4.jpg": "/boostupSamp/static/media/p4.482f33f2615ecba89f77.jpg",
     "static/media/p3.jpg": "/boostupSamp/static/media/p3.e15964f50022bace62d6.jpg",
@@ -12,11 +12,11 @@
     "static/media/aAtmospheric.ttf": "/boostupSamp/static/media/aAtmospheric.f7d9830b308ca5f8ee22.ttf",
     "index.html": "/boostupSamp/index.html",
     "main.0b0365d0.css.map": "/boostupSamp/static/css/main.0b0365d0.css.map",
-    "main.9ae1fb7f.js.map": "/boostupSamp/static/js/main.9ae1fb7f.js.map",
+    "main.d26b38db.js.map": "/boostupSamp/static/js/main.d26b38db.js.map",
     "787.55ddd197.chunk.js.map": "/boostupSamp/static/js/787.55ddd197.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b0365d0.css",
-    "static/js/main.9ae1fb7f.js"
+    "static/js/main.d26b38db.js"
   ]
 }
