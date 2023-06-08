@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/boostupSamp/static/css/main.0b0365d0.css",
-    "main.js": "/boostupSamp/static/js/main.d26b38db.js",
-    "static/js/787.55ddd197.chunk.js": "/boostupSamp/static/js/787.55ddd197.chunk.js",
-    "static/media/p4.jpg": "/boostupSamp/static/media/p4.482f33f2615ecba89f77.jpg",
-    "static/media/p3.jpg": "/boostupSamp/static/media/p3.e15964f50022bace62d6.jpg",
-    "static/media/p1.jpg": "/boostupSamp/static/media/p1.1bf1ff0289bde3e063f5.jpg",
-    "static/media/p2.jpg": "/boostupSamp/static/media/p2.76b32484c94831d680f5.jpg",
-    "static/media/boostupbg.png": "/boostupSamp/static/media/boostupbg.ba8beebed4727d334c63.png",
-    "static/media/Kusanagi.otf": "/boostupSamp/static/media/Kusanagi.e9897a0e55d6890fd3b0.otf",
-    "static/media/aAtmospheric.ttf": "/boostupSamp/static/media/aAtmospheric.f7d9830b308ca5f8ee22.ttf",
-    "index.html": "/boostupSamp/index.html",
-    "main.0b0365d0.css.map": "/boostupSamp/static/css/main.0b0365d0.css.map",
-    "main.d26b38db.js.map": "/boostupSamp/static/js/main.d26b38db.js.map",
-    "787.55ddd197.chunk.js.map": "/boostupSamp/static/js/787.55ddd197.chunk.js.map"
+    "main.css": "/boostupSamp/components/tutorials/static/css/main.4871fbd0.css",
+    "main.js": "/boostupSamp/components/tutorials/static/js/main.f7ffaffb.js",
+    "static/js/787.55ddd197.chunk.js": "/boostupSamp/components/tutorials/static/js/787.55ddd197.chunk.js",
+    "static/media/p4.jpg": "/boostupSamp/components/tutorials/static/media/p4.482f33f2615ecba89f77.jpg",
+    "static/media/p3.jpg": "/boostupSamp/components/tutorials/static/media/p3.e15964f50022bace62d6.jpg",
+    "static/media/p1.jpg": "/boostupSamp/components/tutorials/static/media/p1.1bf1ff0289bde3e063f5.jpg",
+    "static/media/p2.jpg": "/boostupSamp/components/tutorials/static/media/p2.76b32484c94831d680f5.jpg",
+    "static/media/boostupbg.png": "/boostupSamp/components/tutorials/static/media/boostupbg.ba8beebed4727d334c63.png",
+    "static/media/Kusanagi.otf": "/boostupSamp/components/tutorials/static/media/Kusanagi.e9897a0e55d6890fd3b0.otf",
+    "static/media/aAtmospheric.ttf": "/boostupSamp/components/tutorials/static/media/aAtmospheric.f7d9830b308ca5f8ee22.ttf",
+    "index.html": "/boostupSamp/components/tutorials/index.html",
+    "main.4871fbd0.css.map": "/boostupSamp/components/tutorials/static/css/main.4871fbd0.css.map",
+    "main.f7ffaffb.js.map": "/boostupSamp/components/tutorials/static/js/main.f7ffaffb.js.map",
+    "787.55ddd197.chunk.js.map": "/boostupSamp/components/tutorials/static/js/787.55ddd197.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b0365d0.css",
-    "static/js/main.d26b38db.js"
+    "static/css/main.4871fbd0.css",
+    "static/js/main.f7ffaffb.js"
   ]
 }
